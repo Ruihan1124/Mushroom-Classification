@@ -80,4 +80,4 @@ features = list(data.columns.drop('class'))
 decision_tree = create_decision_tree(data, features)
 
 # Output decision tree
-print("决策树结构：", decision_tree)
+print("the structure of the tree:", decision_tree)
