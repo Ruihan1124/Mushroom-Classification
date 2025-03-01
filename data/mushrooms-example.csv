@@ -1,0 +1,7 @@
+id,class,cap-shape,cap-color,gill-size,gill-color,stalk-shape,spore-print-color
+1,poisonous,convex,brown,narrow,black,enlarging,black
+6,edible,convex,yellow,broad,brown,enlarging,black
+7,edible,bell,white,broad,gray,enlarging,black
+13,edible,bell,yellow,broad,white,enlarging,brown
+15,edible,convex,brown,broad,brown,tapering,black
+19,poisonous,convex,white,narrow,brown,enlarging,brown
